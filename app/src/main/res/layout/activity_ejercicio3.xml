@@ -10,6 +10,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/txtInputLayoutTitulo"
         app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="@id/txtInputLayoutTexto"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         android:layout_margin="20dp"
