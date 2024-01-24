@@ -13,7 +13,6 @@
         app:layout_constraintBottom_toBottomOf="@id/txtInputLayoutTexto"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        android:layout_margin="20dp"
         >
         <com.google.android.material.textfield.TextInputEditText
             android:layout_width="match_parent"
@@ -33,7 +32,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintBottom_toTopOf="@+id/txtIcono"
-        android:layout_margin="20dp"
         >
 
         <com.google.android.material.textfield.TextInputEditText
