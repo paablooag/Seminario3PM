@@ -4,12 +4,16 @@ plugins {
 }
 
 android {
+    viewBinding {
+        enabled = true
+    }
+
     namespace 'com.example.seminario3pm'
     compileSdk 33
 
     defaultConfig {
         applicationId "com.example.seminario3pm"
-        minSdk 30
+        minSdk 28
         targetSdk 33
         versionCode 1
         versionName "1.0"

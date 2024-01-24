@@ -15,6 +15,9 @@
         android:theme="@style/Theme.Seminario3PM"
         tools:targetApi="31">
         <activity
+            android:name=".Ejercicio3"
+            android:exported="false" />
+        <activity
             android:name=".NotificacionesActivity"
             android:exported="false" />
         <activity

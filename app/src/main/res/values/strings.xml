@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Seminario3PM</string>
+    <string-array name="iconos">
+        <item>Elija una opcion</item>
+        <item>Juan Antonio</item>
+        <item>Paco</item>
+        <item>Jose Antonio</item>
+    </string-array>
+
+    <string-array name="fotos">
+        <item>Elija una opcion</item>
+        <item>Piton</item>
+        <item>Araña</item>
+        <item>Lorza</item>
+    </string-array>
+
 </resources>
